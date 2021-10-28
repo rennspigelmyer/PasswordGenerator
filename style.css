@@ -51,7 +51,9 @@ h2 {
     width: 350px;
 }
 
-
+#result {
+  color: #443850;
+}
 
 
 #result-container {
